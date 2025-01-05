@@ -1,0 +1,83 @@
+.input-container{
+    border-width:0px 0px 1px;
+    height: 20px;
+    background-color: transparent;
+    margin-right: 30px;
+    font-size: 14px;
+    border-color: black;
+}
+.input-container:focus{
+    background-color: transparent;
+    outline: none;
+}
+.input1{
+    width: 70%;
+}
+.input2{
+    width: 73%;
+}
+
+.maincontainer{
+    border: solid 1px;
+    border-radius: 10px;
+    border-top: 0px;
+    width: 80%;
+    max-width: 500px;
+    min-width: 400px;
+}
+.text{
+    color: rgb(214, 207, 207);
+    font-weight: 400;
+    margin-left: 10px;
+}
+.mainHeading{
+    background-color:#069ed1;
+    margin: 0px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-bottom: 15px;
+    border-color: #2B134D;
+}
+.mainHeadinBorder{
+    height: 5px;
+    background-color: #2B134D;
+    display: block;
+}
+.button{
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+    background-color: #069ed1;
+    padding: 6px 115px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+a{
+    color: #0000ee;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logindes{
+    color: #bbb;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logindes1{
+    color: #bbb;
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image{
+    max-width: 422px;
+}
+.capchaImage{
+    width: 200px;
+    margin-bottom: 10px;
+}
